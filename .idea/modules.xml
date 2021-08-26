@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quote-formatter.iml" filepath="$PROJECT_DIR$/quote-formatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quoteformatter/quoteformatter.iml" filepath="$PROJECT_DIR$/quoteformatter/quoteformatter.iml" />
+    </modules>
+  </component>
+</project>
